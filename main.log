@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015/Debian) (preloaded format=platex 2018.12.11)  29 MAY 2019 18:35
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015/Debian) (preloaded format=platex 2018.12.11)  29 MAY 2019 20:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1377,33 +1377,36 @@ File: ./fig/Position1.eps Graphic file (type eps)
 
 <./fig/Position1.eps>
 File: ./fig/rXKIDOU.eps Graphic file (type eps)
- <./fig/rXKIDOU.eps> [1
+ <./fig/rXKIDOU.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
 
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 366.
+(hyperref)                removing `math shift' on input line 367.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 366.
+(hyperref)                removing `subscript' on input line 367.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 366.
+(hyperref)                removing `math shift' on input line 367.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 441.
+(hyperref)                removing `math shift' on input line 442.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 441.
+(hyperref)                removing `subscript' on input line 442.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 441.
+(hyperref)                removing `math shift' on input line 442.
 
 File: ./fig/key6leg.eps Graphic file (type eps)
 <./fig/key6leg.eps>
@@ -1422,12 +1425,12 @@ File: ./fig/TSS.eps Graphic file (type eps)
  <./fig/TSS.eps>
 File: ./fig/hohaba.eps Graphic file (type eps)
  <./fig/hohaba.eps>
-Underfull \hbox (badness 10000) in paragraph at lines 732--783
+Underfull \hbox (badness 10000) in paragraph at lines 733--784
 []$[]$ $[]$ $[]$ $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 732--783
+Underfull \hbox (badness 10000) in paragraph at lines 733--784
 []$ $[]$ $[]$ $[]$ $[]$
  []
 
@@ -1437,7 +1440,7 @@ File: ./fig/No1.eps Graphic file (type eps)
  <./fig/No1.eps>
 File: ./fig/No2.eps Graphic file (type eps)
  <./fig/No2.eps>
-Underfull \hbox (badness 10000) in paragraph at lines 788--809
+Underfull \hbox (badness 10000) in paragraph at lines 789--810
 []$[]$ $[]$ $[]$
  []
 
@@ -1476,21 +1479,21 @@ Overfull \hbox (13.81395pt too wide) in paragraph at lines 110--144
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1161.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1162.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1161.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1162.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1161.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1161.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1161.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1162.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1162.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1162.
  ) 
 Here is how much of TeX's memory you used:
  14762 strings out of 494865
  257615 string characters out of 6179768
- 335185 words of memory out of 5000000
+ 335190 words of memory out of 5000000
  17851 multiletter control sequences out of 15000+600000
  15823 words of font info for 70 fonts, out of 8000000 for 9000
  269 hyphenation exceptions out of 8191
  44i,11n,40p,10404b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (3 pages, 31840 bytes).
+Output written on main.dvi (3 pages, 31676 bytes).
