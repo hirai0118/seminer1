@@ -1,0 +1,149 @@
+% *******************************************************************************
+% The command of check list
+% Arguments are 0, 1 and 2.
+% 0 is a blank. 1 is a check mark. 2 is a hyphen.
+% *******************************************************************************
+\newcommand{\listcheck}[4]{
+  \ifcase #1 &\or
+  $\surd$& \or --&\fi
+  \ifcase #2 &\or
+  $\surd$& \or --&\fi
+  \ifcase #3 &\or
+  $\surd$& \or --&\fi
+  \ifcase #4 \or
+  $\surd$ \or --\fi
+}
+% *******************************************************************************
+\begin{table*}[htbp]
+  \centering
+  \caption{The referee of seminar document and power point.}\label{tab.check}
+  \begin{tabular}{|c|c|c||c|c|c|}\hline
+    \makebox[30pt][c]{Number}&\makebox[25pt][c]{Grade}&\makebox[155pt][c]{Name}&
+    \makebox[30pt][c]{Number}&\makebox[25pt][c]{Grade}&\makebox[155pt][c]{Name}\\\hline
+
+    % number&grade&name&&
+    % number&grade&name\\\hline
+    1 & & & 4 &  & \\\hline
+    2 & & & 5 &  & \\\hline
+    3 & & &6 &  & \\\hline
+  \end{tabular}
+\end{table*}
+\begin{table*}[htbp]
+  \centering
+  \caption{The check points of tex.}\label{tab.list}
+  \begin{tabular}{|c|c|c|c|c|}\hline
+    \makebox[335pt][c]{Check Points}&\makebox[25pt][c]{Myself}&\makebox[25pt][c]{1}
+    &\makebox[25pt][c]{2}&\makebox[25pt][c]{3}\\\hline
+    % Check Points&myself&1&2&3\\\hline
+    % *******************************************************************************
+    % tex
+    % *******************************************************************************
+    題目の単語の頭文字は大文字（4文字未満の前置詞，冠詞は小文字）
+    &\listcheck{1}{1}{0}{0}\\\hline
+    苗字と名前の間は半角スペース
+    &\listcheck{1}{1}{0}{0}\\\hline
+    英語のフォントは Times New Roman
+    &\listcheck{1}{1}{0}{0}\\\hline
+    図やグラフを並べた際に図の大きさがそろっている
+    &\listcheck{1}{1}{0}{0}\\\hline
+    単位と数字の間にスペース 例：$\bigcirc$~10~mm，$\times$~10mm
+    &\listcheck{2}{2}{0}{0}\\\hline
+    単位は斜体にしない 例：$\bigcirc$~10~mm，$\times$~10~$mm$
+    &\listcheck{1}{1}{0}{0}\\\hline
+    変数に対する単位には[~]を付ける 例：$b$~[m]， 5 m
+    &\listcheck{1}{1}{0}{0}\\\hline
+    文中や式中の変数の書体はイタリック，定数の書体はブロック
+    &\listcheck{1}{1}{0}{0}\\\hline
+    日本語文中の「（」，「）」，「，」，「．」は全角
+    &\listcheck{1}{1}{0}{0}\\\hline
+    % 一つ，二つ，三次元などは漢数字
+    % &\listcheck{0}{0}{0}{0}\\\hline
+    グラフ，文中の (a) などの括弧は半角
+    &\listcheck{1}{1}{0}{0}\\\hline
+    文中の数式関係の括弧は半角
+    &\listcheck{1}{1}{0}{0}\\\hline
+    比較検証の場合，同じ条件下での結果である
+    &\listcheck{1}{1}{0}{0}\\\hline
+    背景と目的がつながっている
+    &\listcheck{1}{1}{0}{0}\\\hline
+    省略されている単語の前に省略前の単語がある 例：Center of Mass（CoM）
+    &\listcheck{1}{1}{0}{0}\\\hline
+    参考文献の書き方が正しい
+    &\listcheck{2}{2}{0}{0}\\\hline
+    セミナー3日前に第一版のチェックを受けた
+    &\listcheck{2}{2}{0}{0}\\\hline
+    セミナー当日正午までに最終版のチェックを受けた
+    &\listcheck{1}{1}{0}{0}\\\hline
+    % *******************************************************************************
+    % 参考文献
+    % *******************************************************************************
+    % 学会誌（注意：題名と学会誌名の後の「，」は全角）&&&&\\
+    % 人名，``題名''，学会誌名，\verb*|vol. 2,no. 1,pp. 12--18, 2008.|
+    % &-&&&\\\hline
+    % 公演論文（日本の場合発表番号と年の間の「,」と文末の「.」だけ半角）&&&&\\
+    % 人名，人名，``題名''，公演論文集名，発表番号\verb*|, 2009.|
+    % &-&&&\\\hline
+    % 卒論・修論（文末の「.」だけ半角）&&&&\\
+    % 執筆者（記者名 \verb*|\ | 訳），``題目''，修士論文，&&&&\\
+    % 東京都市大学工学部機械システム工学科，2009.
+    % &-&&&\\\hline
+    % 本（注意：「``」，「''」と文末の「.」以外は全角）&&&&\\
+    % 著者名，``本の題名''，出版社，出版年，pp200--205.&&&&\\
+    % （引用ページがない場合は「出版年.」）
+    % &-&&&\\\hline
+    % ホームページ（() 内は最後にそのページを見た日）&&&&\\
+    % 作者名（わかる場合のみ）．（\verb*|2010,\ Dec.\ 12|）ホームページ名&&&&\\
+    % \verb*|\ [Online].\ Available:\url{|ホームページの URL\verb*|}|
+    % &-&&&\\\hline
+    % IEEEに基づく書き方例（題名,を「``」，「''」でくくる）&&&&\\
+    % J. K. Author, ``Title of chapter in the book,''&&&&\\
+    % in Title of His Published Book, xth ed. City of Publisher,&&&&\\
+    % Country if not USA: Abbrev. of Publisher, year, ch. x,&&&&\\
+    % sec. x, pp. xxx-xxx.&&&&\\
+    % &-&&&\\\hline
+  \end{tabular}
+\end{table*}
+
+\begin{table*}
+  \centering
+  \caption{The check points of ppt.}\label{tab.ppt}
+  \begin{tabular}{|c|c|c|c|c|}\hline
+    % *******************************************************************************
+    % ppt
+    % *******************************************************************************
+    Check Points&\makebox[25pt][c]{Myself}&\makebox[25pt][c]{4}
+    &\makebox[25pt][c]{5}&\makebox[25pt][c]{6}\\\hline
+
+    日本語のフォントは MS~Pゴシック，英語は Times New Roman
+    &\listcheck{0}{0}{0}{0}\\\hline
+    真っ白なスライドデザインは使用しない
+    &\listcheck{0}{0}{0}{0}\\\hline
+    左右の余白が最低グリッド1マス分空いている
+    &\listcheck{0}{0}{0}{0}\\\hline
+    文字は単文にし，「．」は使用していない
+    &\listcheck{0}{0}{0}{0}\\\hline
+    文章の書き出しや，図表はページの中でそろえて配置
+    &\listcheck{0}{0}{0}{0}\\\hline
+    文字のサイズは四種類まで（大題，小題，本文，図のキャプション）
+    &\listcheck{0}{0}{0}{0}\\\hline
+    文字を見やすくするため，フォントサイズは 20 point 以上
+    &\listcheck{0}{0}{0}{0}\\\hline
+    % 強調のために赤と青の色を用いている (赤は瞬間的に，青は持続的に記憶される)
+    % &\listcheck{0}{0}{0}{0}\\\hline
+    矢印の色と位置がそろってる（色は単色とし，全てのスライドで同じ色を用いる）
+    &\listcheck{0}{0}{0}{0}\\\hline
+    写真，グラフ，表，動画を用いて見やすいスライドになっている
+    &\listcheck{0}{0}{0}{0}\\\hline
+    各スライドの発表時間が約30$\sim$60~秒になるような構成
+    &\listcheck{0}{0}{0}{0}\\\hline
+    「ご清聴ありがとうございました」を使っている（ご静聴ではない）
+    &\listcheck{0}{0}{0}{0}\\\hline
+    セミナー前にチェックを受けた
+    &\listcheck{0}{0}{0}{0}\\\hline
+  \end{tabular}
+\end{table*}
+
+%% Local Variables:
+%% mode: japanese-latex
+%% TeX-master: t
+%% End:

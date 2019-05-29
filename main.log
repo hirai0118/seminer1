@@ -1,0 +1,1496 @@
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015/Debian) (preloaded format=platex 2018.12.11)  29 MAY 2019 18:35
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+pLaTeX2e <2006/11/10> (based on LaTeX2e <2016/02/01> patch level 0)
+Babel <3.9n> and hyphenation patterns for 11 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+Document Class: jsarticle 2014/02/07 okumura
+LaTeX Info: Redefining \rmfamily on input line 352.
+LaTeX Info: Redefining \sffamily on input line 355.
+LaTeX Info: Redefining \ttfamily on input line 358.
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 423.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 613.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 613.
+\fullwidth=\dimen118
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 760.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 760.
+\c@part=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\@abstractbox=\box41
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\js@tocl@width=\dimen119
+\@lnumwidth=\dimen120
+\bibindent=\dimen121
+LaTeX Info: Redefining \TeX on input line 1731.
+LaTeX Info: Redefining \LaTeX on input line 1757.
+LaTeX Info: Redefining \LaTeXe on input line 1782.
+\heisei=\count89
+) (../../rlsTex/setup/seminar.tex
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/dvipdfmx-def/dvipdfmx.def
+File: dvipdfmx.def 2015/11/04 v4.07 LaTeX color/graphics driver for dvipdfmx (T
+eX Live/ChoF)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)))
+\Gin@req@height=\dimen122
+\Gin@req@width=\dimen123
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvipdfmx.def on input line 143.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is not available.
+Package pdftexcmds Info: \pdf@ifprimitive is not available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen124
+\Hy@linkcounter=\count90
+\Hy@pagecounter=\count91
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count92
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count93
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen125
+\Fld@menulength=\count94
+\Field@Width=\dimen126
+\Fld@charsize=\dimen127
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count95
+\c@Item=\count96
+\c@Hfootnote=\count97
+)
+
+Package hyperref Message: Driver: hdvipdfm.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hdvipdfm.def
+File: hdvipdfm.def 2012/11/06 v6.83m Hyperref driver for dvipdfm
+\pdfm@box=\box42
+\c@Hy@AnnotLevel=\count98
+\HyField@AnnotCount=\count99
+\Fld@listcount=\count100
+\c@bookmark@seq@number=\count101
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip43
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 9.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen128
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen129
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count102
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count103
+\leftroot@=\count104
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count105
+\DOTSCASE@=\count106
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box43
+\strutbox@=\box44
+\big@size=\dimen130
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count107
+\c@MaxMatrixCols=\count108
+\dotsspace@=\muskip11
+\c@parentequation=\count109
+\dspbrk@lvl=\count110
+\tag@help=\toks17
+\row@=\count111
+\column@=\count112
+\maxfields@=\count113
+\andhelp@=\toks18
+\eqnshift@=\dimen131
+\alignsep@=\dimen132
+\tagshift@=\dimen133
+\tagwidth@=\dimen134
+\totwidth@=\dimen135
+\lineht@=\dimen136
+\@envbody=\toks19
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup5
+\symboldletters=\mathgroup6
+\symboldsymbols=\mathgroup7
+\symboldmincho=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup9
+\symAMSb=\mathgroup10
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(../../rlsTex/library/style/pxjahyper.sty
+
+LaTeX Warning: You have requested package `../../rlsTex/library/style/pxjahyper
+',
+               but the package provides `pxjahyper'.
+
+Package: pxjahyper 2012/05/27 v0.2
+) (../../rlsTex/library/style/rls/rtgSeminar.sty
+\figurewidth=\skip47
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2016/01/19 v6377 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2016/01/19 v6377 L3 programming layer (code)
+L3 Module: l3bootstrap 2016/01/01 v6339 L3 Bootstrap code
+L3 Module: l3names 2015/12/21 v6328 L3 Namespace for primitives
+L3 Module: l3basics 2015/11/22 v6315 L3 Basic definitions
+L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
+L3 Module: l3tl 2015/09/29 v6121 L3 Token lists
+L3 Module: l3str 2016/01/03 v6357 L3 Strings
+L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
+L3 Module: l3int 2016/01/05 v6366 L3 Integers
+\c_max_int=\count114
+\l_tmpa_int=\count115
+\l_tmpb_int=\count116
+\g_tmpa_int=\count117
+\g_tmpb_int=\count118
+L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
+L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
+\g__prg_map_int=\count119
+L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
+L3 Module: l3token 2015/11/11 v6249 L3 Experimental token manipulation
+L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
+L3 Module: l3msg 2015/09/28 v6113 L3 Messages
+L3 Module: l3file 2015/12/03 v6317 L3 File and I/O operations
+\l_iow_line_count_int=\count120
+\l__iow_target_count_int=\count121
+\l__iow_current_line_int=\count122
+\l__iow_current_word_int=\count123
+\l__iow_current_indentation_int=\count124
+L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
+\c_zero_dim=\dimen137
+\c_max_dim=\dimen138
+\l_tmpa_dim=\dimen139
+\l_tmpb_dim=\dimen140
+\g_tmpa_dim=\dimen141
+\g_tmpb_dim=\dimen142
+\c_zero_skip=\skip48
+\c_max_skip=\skip49
+\l_tmpa_skip=\skip50
+\l_tmpb_skip=\skip51
+\g_tmpa_skip=\skip52
+\g_tmpb_skip=\skip53
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
+\g__keyval_level_int=\count125
+\l_keys_choice_int=\count126
+L3 Module: l3fp 2015/08/25 v5890 L3 Floating points
+\c__fp_leading_shift_int=\count127
+\c__fp_middle_shift_int=\count128
+\c__fp_trailing_shift_int=\count129
+\c__fp_big_leading_shift_int=\count130
+\c__fp_big_middle_shift_int=\count131
+\c__fp_big_trailing_shift_int=\count132
+\c__fp_Bigg_leading_shift_int=\count133
+\c__fp_Bigg_middle_shift_int=\count134
+\c__fp_Bigg_trailing_shift_int=\count135
+L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
+\c_empty_box=\box45
+\l_tmpa_box=\box46
+\l_tmpb_box=\box47
+\g_tmpa_box=\box48
+\g_tmpb_box=\box49
+L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
+\l__coffin_internal_box=\box50
+\l__coffin_internal_dim=\dimen143
+\l__coffin_offset_x_dim=\dimen144
+\l__coffin_offset_y_dim=\dimen145
+\l__coffin_x_dim=\dimen146
+\l__coffin_y_dim=\dimen147
+\l__coffin_x_prime_dim=\dimen148
+\l__coffin_y_prime_dim=\dimen149
+\c_empty_coffin=\box51
+\l__coffin_aligned_coffin=\box52
+\l__coffin_aligned_internal_coffin=\box53
+\l_tmpa_coffin=\box54
+\l_tmpb_coffin=\box55
+\l__coffin_display_coffin=\box56
+\l__coffin_display_coord_coffin=\box57
+\l__coffin_display_pole_coffin=\box58
+\l__coffin_display_offset_dim=\dimen150
+\l__coffin_display_x_dim=\dimen151
+\l__coffin_display_y_dim=\dimen152
+L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
+L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
+L3 Module: l3candidates 2016/01/14 v6376 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen153
+\l__box_bottom_dim=\dimen154
+\l__box_left_dim=\dimen155
+\l__box_right_dim=\dimen156
+\l__box_top_new_dim=\dimen157
+\l__box_bottom_new_dim=\dimen158
+\l__box_left_new_dim=\dimen159
+\l__box_right_new_dim=\dimen160
+\l__box_internal_box=\box59
+\l__coffin_bounding_shift_dim=\dimen161
+\l__coffin_left_corner_dim=\dimen162
+\l__coffin_right_corner_dim=\dimen163
+\l__coffin_bottom_corner_dim=\dimen164
+\l__coffin_top_corner_dim=\dimen165
+\l__coffin_scaled_total_height_dim=\dimen166
+\l__coffin_scaled_width_dim=\dimen167
+L3 Module: l3luatex 2015/11/11 v6250 L3 Experimental LuaTeX-specific functions
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3dvipdfmx.def
+File: l3dvidpfmx.def 2015/11/11 v6250 L3 Experimental driver: dvipdfmx
+))
+Package: xparse 2016/01/19 v6377 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count136
+\l__xparse_m_args_int=\count137
+\l__xparse_mandatory_args_int=\count138
+\l__xparse_processor_int=\count139
+\l__xparse_v_nesting_int=\count140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(../../rlsTex/package/caption/subcaption.sty
+
+LaTeX Warning: You have requested package `../../rlsTex/package/caption/subcapt
+ion',
+               but the package provides `subcaption'.
+
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen168
+\captionmargin@=\dimen169
+\captionwidth=\dimen170
+\caption@tempdima=\dimen171
+\caption@indent=\dimen172
+\caption@parindent=\dimen173
+\caption@hangindent=\dimen174
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->{\small \advance \lefts
+kip .0628\linewidth \advance \rightskip .0628\linewidth \vskip \abovecaptionski
+p \sbox \@tempboxa {#1\hskip 1zw\relax #2}\ifdim \wd \@tempboxa <\hsize \center
+ing \fi #1\hskip 1zw\relax #2\par \vskip \belowcaptionskip }.
+\c@ContinuedFloat=\count141
+Package caption Info: hyperref package is loaded.
+)
+\c@subfigure=\count142
+\c@subtable=\count143
+) (../../rlsTex/myDef/common/_init_.tex (../../rlsTex/myDef/common/etc.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \iR with sig. 'm o' on line 73.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bfig with sig. 'm o m m' on line 95.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmpsc with sig. 'm m o m' on line 117.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmpnsc with sig. 'm m o m' on line 125.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ig with sig. 'm m' on line 133.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \btb with sig. 'm o m o' on line 165.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \btbl with sig. 'm m' on line 172.
+.................................................
+)
+(../../rlsTex/myDef/common/prefix.tex))
+(../../rlsTex/myDef/matrixOperation/_init_.tex
+(../../rlsTex/myDef/matrixOperation/exp.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \expTwoTThrT with sig. 'm m m m m o o' on line 28.
+.................................................
+)
+(../../rlsTex/myDef/matrixOperation/notation.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \notation with sig. 'm o o o' on line 184.
+.................................................
+))
+(../../rlsTex/myDef/variable/_init_.tex
+(../../rlsTex/myDef/variable/basis/_init_.tex
+(../../rlsTex/myDef/variable/basis/constraint.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mbbBck with sig. 'o o' on line 20.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mbbBc with sig. 'o o' on line 30.
+.................................................
+)
+(../../rlsTex/myDef/variable/basis/mobility.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mbbBmk with sig. 'o o' on line 16.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mbbBm with sig. 'o o' on line 26.
+.................................................
+)
+(../../rlsTex/myDef/variable/basis/mobilityDiff.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmbbBmk with sig. 'o o' on line 16.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmbbBm with sig. 'o o' on line 26.
+.................................................
+)
+(../../rlsTex/myDef/variable/basis/stack.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mbbBPk with sig. 'o o' on line 9.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mbbBP with sig. 'o o' on line 19.
+.................................................
+))
+(../../rlsTex/myDef/variable/contactMap/_init_.tex
+(../../rlsTex/myDef/variable/contactMap/base.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mbbCc with sig. 'o o' on line 20.
+.................................................
+)
+(../../rlsTex/myDef/variable/contactMap/centroidal.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mbbCcCk with sig. 'o o' on line 12.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mbbCcC with sig. 'o o' on line 21.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mbbCmCk with sig. 'o o' on line 34.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mbbCmC with sig. 'o o' on line 43.
+.................................................
+)
+(../../rlsTex/myDef/variable/contactMap/stack.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mbbCPk with sig. 'o o' on line 9.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mbbCP with sig. 'o o' on line 19.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mbbCPC with sig. 'o o' on line 29.
+.................................................
+))
+(../../rlsTex/myDef/variable/jacobian/_init_.tex
+(../../rlsTex/myDef/variable/jacobian/base.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmJc with sig. 'o o' on line 26.
+.................................................
+)
+(../../rlsTex/myDef/variable/jacobian/mix.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmJcM with sig. 'o o' on line 16.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmJmM with sig. 'o o' on line 26.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dbmJmM with sig. 'o o' on line 36.
+.................................................
+)
+(../../rlsTex/myDef/variable/jacobian/centroidal.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmmcalJolaCB with sig. 'o o' on line 12.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dbmmcalJolaCB with sig. 'o o' on line 25.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmmcalJth with sig. 'o o' on line 38.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dbmmcalJth with sig. 'o o' on line 51.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \tilbmmcalJth with sig. 'o o' on line 65.
+.................................................
+)
+(../../rlsTex/myDef/variable/jacobian/stack.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmmcalJPk with sig. 'o o' on line 9.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmmcalJPM with sig. 'o o' on line 19.
+.................................................
+)
+(../../rlsTex/myDef/variable/jacobian/others.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hbmJc with sig. 'o o' on line 26.
+.................................................
+))
+(../../rlsTex/myDef/variable/position.tex)
+(../../rlsTex/myDef/variable/velocity.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalV with sig. 'o o' on line 15.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalVR with sig. 'o o' on line 31.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalVB with sig. 'o o' on line 47.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalVM with sig. 'o o' on line 60.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalVC with sig. 'o o' on line 73.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmcalVB with sig. 'o o' on line 89.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmcalVM with sig. 'o o' on line 102.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmcalVC with sig. 'o o' on line 115.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmcalV with sig. 'o o' on line 131.
+.................................................
+)
+(../../rlsTex/myDef/variable/acceleration.tex)
+(../../rlsTex/myDef/variable/force.tex) (../../rlsTex/myDef/variable/joint.tex)
+(../../rlsTex/myDef/variable/generalizedVariable.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dbmq with sig. 'o o' on line 13.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dbmqM with sig. 'o o' on line 23.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dbmqC with sig. 'o o' on line 33.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ddbmq with sig. 'o o' on line 43.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ddbmqM with sig. 'o o' on line 53.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ddbmqC with sig. 'o o' on line 63.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmQ with sig. 'o o' on line 73.
+.................................................
+)
+(../../rlsTex/myDef/variable/inertia/_init_.tex
+(../../rlsTex/myDef/variable/inertia/base.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mbbMB with sig. 'o o' on line 22.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmmcalHBth with sig. 'o o' on line 36.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmmcalAB with sig. 'o o' on line 46.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmM with sig. 'o o' on line 75.
+.................................................
+)
+(../../rlsTex/myDef/variable/inertia/baseDiff.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmbbMB with sig. 'o o' on line 13.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dbmmcalHBth with sig. 'o o' on line 27.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dbmmcalAB with sig. 'o o' on line 37.
+.................................................
+)
+(../../rlsTex/myDef/variable/inertia/mix.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mbbMC with sig. 'o o' on line 18.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmmcalHMth with sig. 'o o' on line 32.
+.................................................
+)
+(../../rlsTex/myDef/variable/inertia/mixDiff.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmbbMC with sig. 'o o' on line 18.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dbmmcalHMth with sig. 'o o' on line 32.
+.................................................
+)
+(../../rlsTex/myDef/variable/inertia/mixGen.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmmcalAM with sig. 'o o' on line 9.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmAthM with sig. 'o o' on line 26.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmMM with sig. 'o o' on line 51.
+.................................................
+)
+(../../rlsTex/myDef/variable/inertia/centroidal.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmMC with sig. 'o o' on line 28.
+.................................................
+))
+(../../rlsTex/myDef/variable/nonlinear/_init_.tex
+(../../rlsTex/myDef/variable/nonlinear/base.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalCB with sig. 'o o' on line 16.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalPB with sig. 'o o' on line 26.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmc with sig. 'o o' on line 40.
+.................................................
+)
+(../../rlsTex/myDef/variable/nonlinear/mix.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalCM with sig. 'o o' on line 13.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmcM with sig. 'o o' on line 27.
+.................................................
+)
+(../../rlsTex/myDef/variable/nonlinear/centroidal.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalCC with sig. 'o o' on line 13.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmcC with sig. 'o o' on line 27.
+.................................................
+))
+(../../rlsTex/myDef/variable/gravity/_init_.tex
+(../../rlsTex/myDef/variable/gravity/base.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalGB with sig. 'o o' on line 19.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmg with sig. 'o o' on line 33.
+.................................................
+)
+(../../rlsTex/myDef/variable/gravity/centroidal.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalGC with sig. 'o o' on line 9.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmgC with sig. 'o o' on line 19.
+.................................................
+))
+(../../rlsTex/myDef/variable/transform.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmmcalT with sig. 'm o o' on line 25.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mbbT with sig. 'm o o' on line 45.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dbmmcalT with sig. 'm o o' on line 55.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmbbT with sig. 'm o o' on line 75.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmTolaMB with sig. 'o o' on line 107.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmTolaBM with sig. 'o o' on line 139.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dbmTolaMB with sig. 'o o' on line 171.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dbmTolaBM with sig. 'o o' on line 203.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmTolaCB with sig. 'o o' on line 235.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dbmTolaCB with sig. 'o o' on line 267.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmTolaBC with sig. 'o o' on line 299.
+.................................................
+)
+(../../rlsTex/myDef/variable/momentum.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalLB with sig. 'o o' on line 18.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalLC with sig. 'o o' on line 32.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmcalLB with sig. 'o o' on line 50.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmcalLC with sig. 'o o' on line 64.
+.................................................
+)
+(../../rlsTex/myDef/variable/controller/_init_.tex
+(../../rlsTex/myDef/variable/controller/matrix/_init_.tex
+(../../rlsTex/myDef/variable/controller/matrix/inertia.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \obbmmcalAM with sig. 'o o' on line 9.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dobbmmcalAM with sig. 'o o' on line 19.
+.................................................
+)
+(../../rlsTex/myDef/variable/controller/matrix/jacobian.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \obbmmcalJmM with sig. 'o o' on line 9.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \obbmJmM with sig. 'o o' on line 19.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dobbmJmM with sig. 'o o' on line 29.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \obbmJw with sig. 'o o' on line 39.
+.................................................
+))
+(../../rlsTex/myDef/variable/controller/desired/_init_.tex
+(../../rlsTex/myDef/variable/controller/desired/base.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalVBDes with sig. 'o o' on line 15.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmcalVBDes with sig. 'o o' on line 31.
+.................................................
+)
+(../../rlsTex/myDef/variable/controller/desired/com.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalVMDes with sig. 'o o' on line 12.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmcalVMDes with sig. 'o o' on line 25.
+.................................................
+)
+(../../rlsTex/myDef/variable/controller/desired/endEffector.tex)
+(../../rlsTex/myDef/variable/controller/desired/endEffectorDiff.tex))
+(../../rlsTex/myDef/variable/controller/error/_init_.tex
+(../../rlsTex/myDef/variable/controller/error/base.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalVBErr with sig. 'o o' on line 19.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmcalVBErr with sig. 'o o' on line 35.
+.................................................
+)
+(../../rlsTex/myDef/variable/controller/error/com.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalVMErr with sig. 'o o' on line 16.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmcalVMErr with sig. 'o o' on line 29.
+.................................................
+)
+(../../rlsTex/myDef/variable/controller/error/endEffector.tex))
+(../../rlsTex/myDef/variable/controller/gain/_init_.tex
+(../../rlsTex/myDef/variable/controller/gain/base.tex)
+(../../rlsTex/myDef/variable/controller/gain/com.tex)
+(../../rlsTex/myDef/variable/controller/gain/endEffector.tex)
+(../../rlsTex/myDef/variable/controller/gain/dumper.tex)
+(../../rlsTex/myDef/variable/controller/gain/cop.tex)
+(../../rlsTex/myDef/variable/controller/gain/dcm.tex))
+(../../rlsTex/myDef/variable/controller/reference/_init_.tex
+(../../rlsTex/myDef/variable/controller/reference/joint.tex)
+(../../rlsTex/myDef/variable/controller/reference/base.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalVBRef with sig. 'o o' on line 15.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmcalVBRef with sig. 'o o' on line 31.
+.................................................
+)
+(../../rlsTex/myDef/variable/controller/reference/com.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalVMRef with sig. 'o o' on line 12.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmcalVMRef with sig. 'o o' on line 25.
+.................................................
+)
+(../../rlsTex/myDef/variable/controller/reference/centroidal.tex)
+(../../rlsTex/myDef/variable/controller/reference/gen.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ddbmqMRef with sig. 'o o' on line 9.
+.................................................
+)
+(../../rlsTex/myDef/variable/controller/reference/dumper.tex)
+(../../rlsTex/myDef/variable/controller/reference/endEffector.tex)
+(../../rlsTex/myDef/variable/controller/reference/endEffectorDiff.tex)
+(../../rlsTex/myDef/variable/controller/reference/constraint.tex)
+(../../rlsTex/myDef/variable/controller/reference/momentum.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalLBRef with sig. 'o o' on line 17.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmcalLBRef with sig. 'o o' on line 35.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mcalLCRef with sig. 'o o' on line 49.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dmcalLCRef with sig. 'o o' on line 63.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dobmcalLCRef with sig. 'o o' on line 73.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dtilmcalLCRef with sig. 'o o' on line 87.
+.................................................
+)
+(../../rlsTex/myDef/variable/controller/reference/force.tex))
+(../../rlsTex/myDef/variable/controller/walking/_init_.tex
+(../../rlsTex/myDef/variable/controller/walking/CDStrajectory.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmrfDes with sig. 'o' on line 11.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmrXDes with sig. 'o' on line 23.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dbmrXDes with sig. 'o' on line 35.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmrXiniDSDes with sig. 'o' on line 49.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dbmrXiniDSDes with sig. 'o' on line 62.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmrXendDSDes with sig. 'o' on line 76.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \dbmrXendDSDes with sig. 'o' on line 89.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmrvrpDes with sig. 'o' on line 101.
+.................................................
+)
+(../../rlsTex/myDef/variable/controller/walking/CHTtrajectory.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmrfTDes with sig. 'o' on line 11.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmrfHDes with sig. 'o' on line 23.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmrvrpTDes with sig. 'o' on line 35.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmrvrpHDes with sig. 'o' on line 47.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmrXiniTHDes with sig. 'o' on line 61.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmrXiniHTDes with sig. 'o' on line 75.
+.................................................
+)
+(../../rlsTex/myDef/variable/controller/walking/eCHTtrajectory.tex
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmrvrppDes with sig. 'o' on line 10.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmrecmppDes with sig. 'o' on line 21.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmrndecmpTDes with sig. 'o' on line 32.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmrndecmpHDes with sig. 'o' on line 42.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmrndvrpTDes with sig. 'o' on line 54.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bmrndvrpHDes with sig. 'o' on line 65.
+.................................................
+)))
+(../../rlsTex/myDef/variable/cop.tex) (../../rlsTex/myDef/variable/dcm.tex)
+(../../rlsTex/myDef/variable/others.tex)) (../../rlsTex/myDef/bib/_init_.tex))
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+\AtBeginShipoutBox=\box60
+Package hyperref Info: Link coloring ON on input line 37.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count144
+)
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
+
+(./main.out) (./main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 38.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 38.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 38.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 4.805pt on input line 38.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 38.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 38.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 4.805pt on input line 38.
+LaTeX Font Info:    Try loading font information for U+msa on input line 38.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 38.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 38.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 38.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 38.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 38.
+Missing character: There is no ^^e2 in font cmbx12!
+Missing character: There is no ^^80 in font cmbx12!
+Missing character: There is no ^^93 in font cmbx12!
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 48.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 48.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 48.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 48.
+LaTeX Font Info:    Font shape `JT1/gt/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 48.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 48.
+LaTeX Font Info:    Font shape `JY1/gt/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 48.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 48.
+File: ./fig/key2.eps Graphic file (type eps)
+ <./fig/key2.eps>
+File: ./fig/Position1.eps Graphic file (type eps)
+
+<./fig/Position1.eps>
+File: ./fig/rXKIDOU.eps Graphic file (type eps)
+ <./fig/rXKIDOU.eps> [1
+
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 366.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 366.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 366.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 441.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 441.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 441.
+
+File: ./fig/key6leg.eps Graphic file (type eps)
+<./fig/key6leg.eps>
+File: ./fig/keyV2.eps Graphic file (type eps)
+ <./fig/keyV2.eps>
+File: ./fig/original.eps Graphic file (type eps)
+ <./fig/original.eps>
+File: ./fig/TDS.eps Graphic file (type eps)
+ <./fig/TDS.eps>
+File: ./fig/keyV1.eps Graphic file (type eps)
+
+<./fig/keyV1.eps>
+File: ./fig/keyV3.eps Graphic file (type eps)
+ <./fig/keyV3.eps>
+File: ./fig/TSS.eps Graphic file (type eps)
+ <./fig/TSS.eps>
+File: ./fig/hohaba.eps Graphic file (type eps)
+ <./fig/hohaba.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 732--783
+[]$[]$ $[]$ $[]$ $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 732--783
+[]$ $[]$ $[]$ $[]$ $[]$
+ []
+
+File: ./fig/key4.eps Graphic file (type eps)
+<./fig/key4.eps>
+File: ./fig/No1.eps Graphic file (type eps)
+ <./fig/No1.eps>
+File: ./fig/No2.eps Graphic file (type eps)
+ <./fig/No2.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 788--809
+[]$[]$ $[]$ $[]$
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+(./checkSheet.tex
+Overfull \hbox (10.30316pt too wide) in paragraph at lines 20--30
+ [][] 
+ []
+
+
+Overfull \hbox (11.30316pt too wide) in paragraph at lines 34--105
+ [][] 
+ []
+
+
+Overfull \hbox (13.81395pt too wide) in paragraph at lines 110--144
+ [][] 
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1161.
+ [3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1161.
+ (./main.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1161.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1161.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1161.
+ ) 
+Here is how much of TeX's memory you used:
+ 14762 strings out of 494865
+ 257615 string characters out of 6179768
+ 335185 words of memory out of 5000000
+ 17851 multiletter control sequences out of 15000+600000
+ 15823 words of font info for 70 fonts, out of 8000000 for 9000
+ 269 hyphenation exceptions out of 8191
+ 44i,11n,40p,10404b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on main.dvi (3 pages, 31840 bytes).
